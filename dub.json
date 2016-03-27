@@ -1,0 +1,10 @@
+{
+	"name": "fushsia",
+	"description": "A cli to initialise new Git repositories.",
+	"copyright": "Copyright (c) 2016, Lexteam <https://www.lexteam.xyz/>",
+	"authors": [
+        "Jamie Mansfield <https://www.jamierocks.uk/>"
+    ],
+	"dependencies": {
+	}
+}
